@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Routes app with Express",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "n": "^8.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaTTDev9774/Node.js-Projects.git"
+  },
+  "author": "Matheus Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaTTDev9774/Node.js-Projects/issues"
+  },
+  "homepage": "https://github.com/MaTTDev9774/Node.js-Projects#readme"
+}
